@@ -22,7 +22,7 @@ $ yarn add rkgttr-classlistpolyfill --dev
 ### Getting Started
 
 ```js
-import classListPolyfill from 'rkgttr-classlistpolyfill';
+import 'rkgttr-classlistpolyfill';
 ```
 
 or

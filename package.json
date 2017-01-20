@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "rkgttr-classlistpolyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Polyfill for Element.classList.",
   "repository": "rkgttr/rkgttr-classlistpolyfill",
   "author": "Erik Guittiere",
